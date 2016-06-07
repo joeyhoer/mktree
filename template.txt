@@ -1,0 +1,39 @@
+# Directory Template
+Design
+Design/Compositions
+Design/Compositions/Archive
+Design/Fonts
+Design/Icons
+Design/Media
+Design/Media/Images
+Design/Media/Images/Final
+Design/Media/Images/Source
+Design/Media/Videos
+Design/Media/Videos/Final
+Design/Media/Videos/Source
+Design/Wireframes
+Design/Wireframes/Archive
+Design/Working Files
+Design/Working Files/Archive
+Development
+Development/Extensions
+Development/Extensions/Magento
+Development/Extensions/WordPress
+Documents
+Documents/Client Provided
+Documents/Client Provided/Catalog & Data
+Documents/Client Provided/CMS Pages
+Documents/Client Provided/Content & Other
+Documents/Content Map
+Documents/Estimates
+Documents/Notes
+Documents/Sales
+Documents/SEO
+Documents/Site Audit
+Documents/Sitemap
+Documents/Systems Map
+Documents/Team Structure
+Documents/Training
+Meetings
+Meetings/Meeting Notes
+Meetings/Recorded Meetings
