@@ -10,7 +10,7 @@ if [[ -e $DEFAULT_TEMPLATE ]]; then
   TEMPLATE=$DEFAULT_TEMPLATE
 fi
 
-# Tamplate enviromental variable
+# Template enviromental variable
 if [[ -n "$MKTREE_TEMPLATE" ]]; then
   TEMPLATE="$MKTREE_TEMPLATE"
 fi
